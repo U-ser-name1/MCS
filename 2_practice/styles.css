@@ -1,0 +1,15 @@
+h1, h2 {
+  color: #ffffff;
+  background: #000000;
+}
+
+h1 {
+padding: 0;
+border: 1px solid #000000;
+}
+p {
+  padding: 10px 0 10px 10px;
+
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+}
